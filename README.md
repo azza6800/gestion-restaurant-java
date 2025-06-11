@@ -13,7 +13,7 @@ Une application Java orientée objet permettant la gestion complète des command
   - Sur place
   - À emporter
   - En livraison
-- 💾 Sauvegarde des données via fichiers ou base de données (selon version).
+- 💾 Sauvegarde des données via base de données.
 
 ## 🖥️ Technologies utilisées
 
