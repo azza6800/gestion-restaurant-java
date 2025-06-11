@@ -1,4 +1,4 @@
-# 🍽️ Application de Gestion de Restaurant (Java Desktop)
+# 🍽️ Application de Gestion de Restaurant 
 
 Une application Java orientée objet permettant la gestion complète des commandes d’un restaurant. Elle offre une interface graphique conviviale basée sur Swing et AWT.
 
